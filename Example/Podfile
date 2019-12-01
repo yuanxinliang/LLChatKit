@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LLChatKit_Example' do
+  pod 'LLChatKit', :path => '../'
+
+  target 'LLChatKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
