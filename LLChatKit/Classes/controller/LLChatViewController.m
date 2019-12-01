@@ -16,17 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(30, 200, 200, 100)];
+    label.text = @"聊天界面";
+    label.backgroundColor = UIColor.orangeColor;
+    [self.view addSubview:label];
 }
-
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
 @end

@@ -7,34 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		09C535E470992108B6A880A2C9A3F209 /* LLChatKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4F8E89972AAA049D6B94BA0AD2763B /* LLChatKit-dummy.m */; };
-		34B976086B1BA2CE44FA6F5E35E0AA0E /* Pods-LLChatKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF6B14626214148FB4E7D05BEA8A3FD /* Pods-LLChatKit_Example-dummy.m */; };
-		4E5809DC816186D1DABD93DF551014EC /* Pods-LLChatKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF731C3308D275410E8D670FFD9B7BFA /* Pods-LLChatKit_Tests-dummy.m */; };
-		779DDE4C04C3F865091C921CC35B78D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		908356A05F0490F76895C1297F23AB43 /* Pods-LLChatKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BACCF55347C20533EA6A5298606E9E97 /* Pods-LLChatKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		947861F3E3890A0785C3A8DBA3A9AA70 /* LLChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 484077CACC4A11861FEDCB0669ABB5D7 /* LLChatViewController.m */; };
-		B9E16364D256E1C1E1B52BDCCB19900E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		D02BBF3F809AFBEE66E00CACCB1F33A5 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 7849792C310A46759E9A9B145BB321BC /* ReplaceMe.m */; };
-		D9C29658518BDC07D89F85C36C903832 /* LLChatKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4080BB50B4EC32E885B689A5CADAEA2E /* LLChatKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DC189FC52BE4445C6163EA8E1E01CC56 /* LLChatViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = F085008D7D48326DDD660FF8FFDA3D3D /* LLChatViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F4A0382F007D213F1E6521535C0A81B9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		F636854C53CCBF81756124983EDFF69B /* Pods-LLChatKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 81DD63D73D4C601485D281AD14F30CEB /* Pods-LLChatKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4670EE813148E3A0CC991B1AB1E221C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		79803210A8DC2961C2A1BFF0792AC2DF /* Pods-LLChatKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BACCF55347C20533EA6A5298606E9E97 /* Pods-LLChatKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8C900CBDA15C4E79DDF42E6647BC714C /* Pods-LLChatKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 81DD63D73D4C601485D281AD14F30CEB /* Pods-LLChatKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D2F84EA24F96A6E338F94ED59B3C3A6 /* Pods-LLChatKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF6B14626214148FB4E7D05BEA8A3FD /* Pods-LLChatKit_Example-dummy.m */; };
+		97BC82233A87FECC646CC804E35B5B22 /* LLChatKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4F8E89972AAA049D6B94BA0AD2763B /* LLChatKit-dummy.m */; };
+		A3329796DE802038E5F2B6FC4BC1282D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		A9C94EA4685AE30A4E4D9BF3F5BE55AB /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 7849792C310A46759E9A9B145BB321BC /* ReplaceMe.m */; };
+		CBECB2BB4E5A48031B232AAA8B7B0CBB /* LLChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 484077CACC4A11861FEDCB0669ABB5D7 /* LLChatViewController.m */; };
+		D56496674F09D3633A384437D04385E1 /* LLChatViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = F085008D7D48326DDD660FF8FFDA3D3D /* LLChatViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D59D8B967D2D818F5710E0A6EC1A58A0 /* LLChatKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4080BB50B4EC32E885B689A5CADAEA2E /* LLChatKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DC7847E0D2335A7F49463CC971E3A3E0 /* Pods-LLChatKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BF731C3308D275410E8D670FFD9B7BFA /* Pods-LLChatKit_Tests-dummy.m */; };
+		E71C3EF2A2CD93E67526EC79F34C6D5C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2C25D5D1FDA24B0510CED65E9C67D0F0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 67C14B9A4FD73FDA0EF4E3386D2A7F46;
-			remoteInfo = LLChatKit;
-		};
-		674D8BC190D8C3F10D470CD838CE4845 /* PBXContainerItemProxy */ = {
+		7864576054388F0EFDCB9F553C0A8A60 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7CA578B21E317DF6FEFCECD1CD3B5AEC;
 			remoteInfo = "Pods-LLChatKit_Example";
+		};
+		EE99EEE8C3384277F530FF4618AC6728 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 67C14B9A4FD73FDA0EF4E3386D2A7F46;
+			remoteInfo = LLChatKit;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -45,6 +45,7 @@
 		0778FD04BEAA775F5D9CFCED8FCA4EA0 /* Pods-LLChatKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LLChatKit_Example.modulemap"; sourceTree = "<group>"; };
 		2453F0EB42AC11E359F3F9967E3AE987 /* Pods-LLChatKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LLChatKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		2B4F8E89972AAA049D6B94BA0AD2763B /* LLChatKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LLChatKit-dummy.m"; sourceTree = "<group>"; };
+		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		328F51B99647D63C6AE1EAFAEB59ADEA /* Pods-LLChatKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LLChatKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		3DC28CECE94BEA25D7BE051C30540DB4 /* Pods_LLChatKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LLChatKit_Tests.framework; path = "Pods-LLChatKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4080BB50B4EC32E885B689A5CADAEA2E /* LLChatKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LLChatKit-umbrella.h"; sourceTree = "<group>"; };
@@ -69,34 +70,33 @@
 		C59EC7586C2AFE8ADBF35E2304563211 /* Pods-LLChatKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LLChatKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C89D1323C1A5FD60147BFD9543152F60 /* Pods-LLChatKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LLChatKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CA7E6CF9CE6B770260DF2618AD71CEC3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CB854F40EC7F2A98A7839F2322E1DED9 /* Pods-LLChatKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LLChatKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		DE1D7245ED915F8E958F0EF86B021762 /* Pods-LLChatKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LLChatKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F085008D7D48326DDD660FF8FFDA3D3D /* LLChatViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LLChatViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2E089428800450481AADA488B1B16DBD /* Frameworks */ = {
+		694EA09BF62F2C2B4ADA4D2E32D6C6AD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4A0382F007D213F1E6521535C0A81B9 /* Foundation.framework in Frameworks */,
+				E71C3EF2A2CD93E67526EC79F34C6D5C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5377280E23DA226AFF5C705697919630 /* Frameworks */ = {
+		69AC6C1A9CED18C156ECC9ACEF8F2705 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9E16364D256E1C1E1B52BDCCB19900E /* Foundation.framework in Frameworks */,
+				4670EE813148E3A0CC991B1AB1E221C4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FBE0268F46C79C5C8599E44B87CD6B69 /* Frameworks */ = {
+		DCDF9D1811981543B595696E240F3147 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				779DDE4C04C3F865091C921CC35B78D9 /* Foundation.framework in Frameworks */,
+				A3329796DE802038E5F2B6FC4BC1282D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,14 +164,6 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		9B055D0CFEA43187E72B03DED11F5662 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		9E4694140F34B4F32B37F1511D29EADC /* Pods-LLChatKit_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -217,6 +209,14 @@
 			path = ../..;
 			sourceTree = "<group>";
 		};
+		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
@@ -231,7 +231,7 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9B055D0CFEA43187E72B03DED11F5662 /* iOS */,
+				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -239,28 +239,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		58CA13FB60E4CA13CFE7F89450503CF9 /* Headers */ = {
+		3544205BFFB3A1032AEAB10C29A8B623 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				908356A05F0490F76895C1297F23AB43 /* Pods-LLChatKit_Tests-umbrella.h in Headers */,
+				79803210A8DC2961C2A1BFF0792AC2DF /* Pods-LLChatKit_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6307C20DB6402CB82A6AF6D4E0E459E4 /* Headers */ = {
+		E16CE949E244F192D1F87D48846EAF5E /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F636854C53CCBF81756124983EDFF69B /* Pods-LLChatKit_Example-umbrella.h in Headers */,
+				8C900CBDA15C4E79DDF42E6647BC714C /* Pods-LLChatKit_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B1CC6696F3CD6B9206DAC6933AB9A70C /* Headers */ = {
+		F79473A003685742689D5E1C7531E5E7 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9C29658518BDC07D89F85C36C903832 /* LLChatKit-umbrella.h in Headers */,
-				DC189FC52BE4445C6163EA8E1E01CC56 /* LLChatViewController.h in Headers */,
+				D59D8B967D2D818F5710E0A6EC1A58A0 /* LLChatKit-umbrella.h in Headers */,
+				D56496674F09D3633A384437D04385E1 /* LLChatViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,17 +269,17 @@
 /* Begin PBXNativeTarget section */
 		1626D1654EA7EC44BC9127D0B65BA34C /* Pods-LLChatKit_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 074F73DE44361E85DE7B75115729DD3E /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Tests" */;
+			buildConfigurationList = 6B32D183572759D4445ACB18C9ABB8D5 /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Tests" */;
 			buildPhases = (
-				58CA13FB60E4CA13CFE7F89450503CF9 /* Headers */,
-				E8FB936305127F395E0AEC74336665A7 /* Sources */,
-				5377280E23DA226AFF5C705697919630 /* Frameworks */,
-				114DA25AD2D4C874427CE9C9F986F6AC /* Resources */,
+				3544205BFFB3A1032AEAB10C29A8B623 /* Headers */,
+				DBDCE78186281637C80F3F8619977417 /* Sources */,
+				69AC6C1A9CED18C156ECC9ACEF8F2705 /* Frameworks */,
+				6581B783EF498E8B1240467013307505 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6BB4B80BA71784BF055F778D82BB0002 /* PBXTargetDependency */,
+				D7CF25B2987B997CE6F4DD45DDC1A42D /* PBXTargetDependency */,
 			);
 			name = "Pods-LLChatKit_Tests";
 			productName = "Pods-LLChatKit_Tests";
@@ -288,12 +288,12 @@
 		};
 		67C14B9A4FD73FDA0EF4E3386D2A7F46 /* LLChatKit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 600EAD38004D7E99DA69EAFF3016E075 /* Build configuration list for PBXNativeTarget "LLChatKit" */;
+			buildConfigurationList = 0EAE9709BBE06DCF6537CE7B06C9A6D7 /* Build configuration list for PBXNativeTarget "LLChatKit" */;
 			buildPhases = (
-				B1CC6696F3CD6B9206DAC6933AB9A70C /* Headers */,
-				85BF992CFC97EA830B225613F8A5D9A1 /* Sources */,
-				FBE0268F46C79C5C8599E44B87CD6B69 /* Frameworks */,
-				F08F829DE5F2313A88DF37407141253F /* Resources */,
+				F79473A003685742689D5E1C7531E5E7 /* Headers */,
+				14ACBCEBCE6FBF053E3B094F6594D0CB /* Sources */,
+				694EA09BF62F2C2B4ADA4D2E32D6C6AD /* Frameworks */,
+				96E0A76A34A8D9ADD70AF0439FFD2F7E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -306,17 +306,17 @@
 		};
 		7CA578B21E317DF6FEFCECD1CD3B5AEC /* Pods-LLChatKit_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A378E27C67D782E4FFA57E44BED81DB6 /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Example" */;
+			buildConfigurationList = 2540BD4FB3ABBD3A18AD9EE376ADABD8 /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Example" */;
 			buildPhases = (
-				6307C20DB6402CB82A6AF6D4E0E459E4 /* Headers */,
-				8C62B47B6E3465EC3E8B01F84B6AC6F9 /* Sources */,
-				2E089428800450481AADA488B1B16DBD /* Frameworks */,
-				278BD12301D7E4770F9045385EDBD271 /* Resources */,
+				E16CE949E244F192D1F87D48846EAF5E /* Headers */,
+				7C4BBBD47515B161E1CC446E935D70A3 /* Sources */,
+				DCDF9D1811981543B595696E240F3147 /* Frameworks */,
+				510DCCC7CC5AFA8B3EC666C68BDC81D3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A9F7D7882A6FC942364F9525C090E0D6 /* PBXTargetDependency */,
+				10A9B5159839800E7A76FACBE3A1B669 /* PBXTargetDependency */,
 			);
 			name = "Pods-LLChatKit_Example";
 			productName = "Pods-LLChatKit_Example";
@@ -329,15 +329,16 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = 959FE155DF5BE55B35F19B4401B2EA61 /* Products */;
@@ -352,21 +353,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		114DA25AD2D4C874427CE9C9F986F6AC /* Resources */ = {
+		510DCCC7CC5AFA8B3EC666C68BDC81D3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		278BD12301D7E4770F9045385EDBD271 /* Resources */ = {
+		6581B783EF498E8B1240467013307505 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F08F829DE5F2313A88DF37407141253F /* Resources */ = {
+		96E0A76A34A8D9ADD70AF0439FFD2F7E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -376,51 +377,117 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		85BF992CFC97EA830B225613F8A5D9A1 /* Sources */ = {
+		14ACBCEBCE6FBF053E3B094F6594D0CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09C535E470992108B6A880A2C9A3F209 /* LLChatKit-dummy.m in Sources */,
-				947861F3E3890A0785C3A8DBA3A9AA70 /* LLChatViewController.m in Sources */,
-				D02BBF3F809AFBEE66E00CACCB1F33A5 /* ReplaceMe.m in Sources */,
+				97BC82233A87FECC646CC804E35B5B22 /* LLChatKit-dummy.m in Sources */,
+				CBECB2BB4E5A48031B232AAA8B7B0CBB /* LLChatViewController.m in Sources */,
+				A9C94EA4685AE30A4E4D9BF3F5BE55AB /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8C62B47B6E3465EC3E8B01F84B6AC6F9 /* Sources */ = {
+		7C4BBBD47515B161E1CC446E935D70A3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34B976086B1BA2CE44FA6F5E35E0AA0E /* Pods-LLChatKit_Example-dummy.m in Sources */,
+				8D2F84EA24F96A6E338F94ED59B3C3A6 /* Pods-LLChatKit_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E8FB936305127F395E0AEC74336665A7 /* Sources */ = {
+		DBDCE78186281637C80F3F8619977417 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E5809DC816186D1DABD93DF551014EC /* Pods-LLChatKit_Tests-dummy.m in Sources */,
+				DC7847E0D2335A7F49463CC971E3A3E0 /* Pods-LLChatKit_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		6BB4B80BA71784BF055F778D82BB0002 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-LLChatKit_Example";
-			target = 7CA578B21E317DF6FEFCECD1CD3B5AEC /* Pods-LLChatKit_Example */;
-			targetProxy = 674D8BC190D8C3F10D470CD838CE4845 /* PBXContainerItemProxy */;
-		};
-		A9F7D7882A6FC942364F9525C090E0D6 /* PBXTargetDependency */ = {
+		10A9B5159839800E7A76FACBE3A1B669 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LLChatKit;
 			target = 67C14B9A4FD73FDA0EF4E3386D2A7F46 /* LLChatKit */;
-			targetProxy = 2C25D5D1FDA24B0510CED65E9C67D0F0 /* PBXContainerItemProxy */;
+			targetProxy = EE99EEE8C3384277F530FF4618AC6728 /* PBXContainerItemProxy */;
+		};
+		D7CF25B2987B997CE6F4DD45DDC1A42D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-LLChatKit_Example";
+			target = 7CA578B21E317DF6FEFCECD1CD3B5AEC /* Pods-LLChatKit_Example */;
+			targetProxy = 7864576054388F0EFDCB9F553C0A8A60 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		05DF210AC65EBB0E593AAF976B2C2177 /* Release */ = {
+		08A6F613D76A5A26AE352C279385D420 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C89D1323C1A5FD60147BFD9543152F60 /* Pods-LLChatKit_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-LLChatKit_Tests/Pods-LLChatKit_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LLChatKit_Tests/Pods-LLChatKit_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		49D109E71AE868C531F9EF1CBC25B6B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 79BA0337B2401C8DD400187E51ECE5F3 /* Pods-LLChatKit_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -475,12 +542,12 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		20D00FC7DE469607E7D98D33340C90F0 /* Release */ = {
+		7061951667CA17ACA8B0C8FD8BB285A0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CB854F40EC7F2A98A7839F2322E1DED9 /* Pods-LLChatKit_Tests.release.xcconfig */;
 			buildSettings = {
@@ -514,40 +581,7 @@
 			};
 			name = Release;
 		};
-		3DA1BB310B23074CFE92CA60FE1B8C95 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C89D1323C1A5FD60147BFD9543152F60 /* Pods-LLChatKit_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LLChatKit_Tests/Pods-LLChatKit_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LLChatKit_Tests/Pods-LLChatKit_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		421ECB1396280A8D83853C3DDBED1700 /* Debug */ = {
+		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -606,12 +640,44 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		52C77068070C4BD8ED22533715591CA0 /* Debug */ = {
+		97726F557C7AE37EFA7ECC6099EA632E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 96E50E0F9E34754E2C1682967F8B990B /* LLChatKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LLChatKit/LLChatKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LLChatKit/LLChatKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LLChatKit/LLChatKit.modulemap";
+				PRODUCT_MODULE_NAME = LLChatKit;
+				PRODUCT_NAME = LLChatKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		B38EE84377FAB1AE61DAAEA853F8B4FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 96E50E0F9E34754E2C1682967F8B990B /* LLChatKit.xcconfig */;
 			buildSettings = {
@@ -642,7 +708,7 @@
 			};
 			name = Debug;
 		};
-		B5283B7A1764F51B973479CB8BACFAE5 /* Release */ = {
+		F703BB39932E780A3519C5D77A8E2558 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A9040F1AB363C38FB7B707A95D3AF2F9 /* Pods-LLChatKit_Example.release.xcconfig */;
 			buildSettings = {
@@ -676,79 +742,23 @@
 			};
 			name = Release;
 		};
-		BB923CC6AE6B4DFE16AE0E24B52C406D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 96E50E0F9E34754E2C1682967F8B990B /* LLChatKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LLChatKit/LLChatKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LLChatKit/LLChatKit-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LLChatKit/LLChatKit.modulemap";
-				PRODUCT_MODULE_NAME = LLChatKit;
-				PRODUCT_NAME = LLChatKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		C1722A74F3B2414994EE9F1A37EF88E0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 79BA0337B2401C8DD400187E51ECE5F3 /* Pods-LLChatKit_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		074F73DE44361E85DE7B75115729DD3E /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Tests" */ = {
+		0EAE9709BBE06DCF6537CE7B06C9A6D7 /* Build configuration list for PBXNativeTarget "LLChatKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3DA1BB310B23074CFE92CA60FE1B8C95 /* Debug */,
-				20D00FC7DE469607E7D98D33340C90F0 /* Release */,
+				B38EE84377FAB1AE61DAAEA853F8B4FA /* Debug */,
+				97726F557C7AE37EFA7ECC6099EA632E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2540BD4FB3ABBD3A18AD9EE376ADABD8 /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49D109E71AE868C531F9EF1CBC25B6B4 /* Debug */,
+				F703BB39932E780A3519C5D77A8E2558 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -756,26 +766,17 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				421ECB1396280A8D83853C3DDBED1700 /* Debug */,
-				05DF210AC65EBB0E593AAF976B2C2177 /* Release */,
+				7EF7227D9B20A1D549000096ACCB23D7 /* Debug */,
+				4BE66A09A74FD25164AAB3C2645B9B93 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		600EAD38004D7E99DA69EAFF3016E075 /* Build configuration list for PBXNativeTarget "LLChatKit" */ = {
+		6B32D183572759D4445ACB18C9ABB8D5 /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				52C77068070C4BD8ED22533715591CA0 /* Debug */,
-				BB923CC6AE6B4DFE16AE0E24B52C406D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		A378E27C67D782E4FFA57E44BED81DB6 /* Build configuration list for PBXNativeTarget "Pods-LLChatKit_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				C1722A74F3B2414994EE9F1A37EF88E0 /* Debug */,
-				B5283B7A1764F51B973479CB8BACFAE5 /* Release */,
+				08A6F613D76A5A26AE352C279385D420 /* Debug */,
+				7061951667CA17ACA8B0C8FD8BB285A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

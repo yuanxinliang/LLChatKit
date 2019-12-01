@@ -61,7 +61,7 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		680393EE8A0E4AA3E3D14A7F /* LLChatKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LLChatKit.podspec; path = ../LLChatKit.podspec; sourceTree = "<group>"; };
+		680393EE8A0E4AA3E3D14A7F /* LLChatKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LLChatKit.podspec; path = ../LLChatKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8517B1F5A206F7EBB127EC4D /* Pods_LLChatKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LLChatKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		85AC429276D57E11C348B94A /* Pods-LLChatKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LLChatKit_Example.release.xcconfig"; path = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example.release.xcconfig"; sourceTree = "<group>"; };
