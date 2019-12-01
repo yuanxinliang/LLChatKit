@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LLChatKit'
-  s.version          = '1'
+  s.version          = '2'
   s.summary          = 'A short description of LLChatKit - 01.'
 
 
