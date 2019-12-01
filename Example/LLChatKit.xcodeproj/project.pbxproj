@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59AC0BBD2394043F008FB002 /* LLChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59AC0BBC2394043F008FB002 /* LLChatViewController.m */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -38,7 +39,9 @@
 
 /* Begin PBXFileReference section */
 		2B78D55114FD939EC549FC3F /* Pods_LLChatKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LLChatKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		391B17A846AD41AAFCC3B743 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		391B17A846AD41AAFCC3B743 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		59AC0BBB2394043F008FB002 /* LLChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = LLChatViewController.h; path = ../../LLChatKit/Classes/controller/LLChatViewController.h; sourceTree = "<group>"; };
+		59AC0BBC2394043F008FB002 /* LLChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = LLChatViewController.m; path = ../../LLChatKit/Classes/controller/LLChatViewController.m; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* LLChatKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LLChatKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,7 +61,7 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		680393EE8A0E4AA3E3D14A7F /* LLChatKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LLChatKit.podspec; path = ../LLChatKit.podspec; sourceTree = "<group>"; };
+		680393EE8A0E4AA3E3D14A7F /* LLChatKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LLChatKit.podspec; path = ../LLChatKit.podspec; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8517B1F5A206F7EBB127EC4D /* Pods_LLChatKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LLChatKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		85AC429276D57E11C348B94A /* Pods-LLChatKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LLChatKit_Example.release.xcconfig"; path = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -66,7 +69,7 @@
 		96CA4A0CEF9540B7488670D2 /* Pods-LLChatKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LLChatKit_Tests.release.xcconfig"; path = "Target Support Files/Pods-LLChatKit_Tests/Pods-LLChatKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9A4B70A7840DD9BC471A03A4 /* Pods-LLChatKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LLChatKit_Example.debug.xcconfig"; path = "Target Support Files/Pods-LLChatKit_Example/Pods-LLChatKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		9E4D7BC44840927E965EE94C /* Pods-LLChatKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LLChatKit_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LLChatKit_Tests/Pods-LLChatKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A6247C5B56D80A05E7B9348C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A6247C5B56D80A05E7B9348C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +106,6 @@
 				9E4D7BC44840927E965EE94C /* Pods-LLChatKit_Tests.debug.xcconfig */,
 				96CA4A0CEF9540B7488670D2 /* Pods-LLChatKit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -150,6 +152,8 @@
 				6003F5A5195388D20070C39A /* LLViewController.h */,
 				6003F5A6195388D20070C39A /* LLViewController.m */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
+				59AC0BBB2394043F008FB002 /* LLChatViewController.h */,
+				59AC0BBC2394043F008FB002 /* LLChatViewController.m */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
 			);
@@ -258,6 +262,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -364,6 +369,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59AC0BBD2394043F008FB002 /* LLChatViewController.m in Sources */,
 				6003F59E195388D20070C39A /* LLAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* LLViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,

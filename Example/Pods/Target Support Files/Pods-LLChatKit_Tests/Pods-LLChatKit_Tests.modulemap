@@ -1,0 +1,6 @@
+framework module Pods_LLChatKit_Tests {
+  umbrella header "Pods-LLChatKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,6 +7,7 @@
 //
 
 #import "LLViewController.h"
+#import "LLChatViewController.h"
 
 @interface LLViewController ()
 
@@ -20,10 +21,10 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    LLChatViewController *vc = [LLChatViewController new];
+    vc.view.backgroundColor = [UIColor whiteColor];
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 @end

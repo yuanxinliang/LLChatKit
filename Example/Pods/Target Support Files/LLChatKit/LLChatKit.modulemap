@@ -1,0 +1,6 @@
+framework module LLChatKit {
+  umbrella header "LLChatKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
